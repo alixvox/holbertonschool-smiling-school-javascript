@@ -1,1 +1,1 @@
-# holbertonschool-smiling-school-javascript
+In this project, I will be designing a project using bootstrap and javascript!
